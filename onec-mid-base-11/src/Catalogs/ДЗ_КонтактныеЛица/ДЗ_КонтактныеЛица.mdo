@@ -55,7 +55,7 @@
       <value>Должность</value>
     </synonym>
     <type>
-      <types>CatalogRef.Должность</types>
+      <types>CatalogRef.ДЗ_Должность</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

@@ -1178,6 +1178,8 @@
   <catalogs>Catalog.ГруппыВнешнихПользователей</catalogs>
   <catalogs>Catalog.ГруппыДоступа</catalogs>
   <catalogs>Catalog.ГруппыПользователей</catalogs>
+  <catalogs>Catalog.ДЗ_Должность</catalogs>
+  <catalogs>Catalog.ДЗ_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
@@ -1213,8 +1215,6 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
-  <catalogs>Catalog.ДЗ_КонтактныеЛица</catalogs>
-  <catalogs>Catalog.Должность</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>

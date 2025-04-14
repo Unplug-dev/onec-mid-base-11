@@ -68,5 +68,5 @@
   <content>CommonForm.ВосстановлениеПаролей</content>
   <content>Report.ПраваРолей</content>
   <content>Report.ДлительностьОтложенногоОбновления</content>
-  <content>Catalog.Должность</content>
+  <content>Catalog.ДЗ_Должность</content>
 </mdclass:Subsystem>
